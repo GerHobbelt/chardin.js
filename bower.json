@@ -1,7 +1,7 @@
 {
     "name": "xeroxoid/chardin.js",
     "version": "0.1.4",
-    "main": ["chardinjs.min.js", "chardinjs.js"],
+    "main": ["chardinjs.min.js", "chardinjs.css"],
     "description": "Simple overlay instructions for your apps.",
     "license": "Apache",
     "dependencies": {
