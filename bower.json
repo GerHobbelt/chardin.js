@@ -5,6 +5,6 @@
     "description": "Simple overlay instructions for your apps.",
     "license": "Apache",
     "dependencies": {
-        "jQuery": ">=1.6.0"
+        "jquery": ">=1.6.0"
     }
 }
